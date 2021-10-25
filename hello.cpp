@@ -3,7 +3,7 @@
     hello.cpp
 
     Created by Caitlyn Rousseau 10/23/2021.
-    Copyright © 2021 Caitlyn Rousseau .All rights reserved.
+    Copyright © 2021 Caitlyn Rousseau. All rights reserved.
 
 */
 
